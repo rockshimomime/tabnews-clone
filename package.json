@@ -1,0 +1,24 @@
+{
+  "name": "tabnews-clone",
+  "version": "0.1.0",
+  "description": "A tabnews clone",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockshimomime/tabnews-clone.git"
+  },
+  "author": "rockshimomime",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockshimomime/tabnews-clone/issues"
+  },
+  "homepage": "https://github.com/rockshimomime/tabnews-clone#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
